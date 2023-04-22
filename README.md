@@ -8,5 +8,5 @@ Práctica 2 de Paralelismo. Hay un par de errores. L y n están en todos los pro
       send
     else
       break
-      ```
+```
       
